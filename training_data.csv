@@ -1,4 +1,4 @@
-,Date,WTEQ.I-1 (in) ,PREC.I-1 (in) ,TOBS.I-1 (degC) ,TMAX.D-1 (degC) ,TMIN.D-1 (degC) ,TAVG.D-1 (degC) ,SNWD.I-1 (in) ,BATT.I-1 (volt) ,BATT.I-2 (volt) ,BATT.I-3 (volt) ,Target
+,Date,Sno-Wa_Eq,Prec,Air_Temp,Max_Temp,Min_Temp,Avg_Temp,Sno_Depth,BAT_1,BAT_2,BAT_3,Target
 0,2010-01-01,6.8,8.0,-11.0,-9.8,-16.1,-12.9,30.0,12.44,13.8,3.15,0.0
 1,2010-01-02,6.8,8.0,-4.3,-3.0,-11.2,-6.2,29.0,12.48,13.77,3.15,0.0
 2,2010-01-03,7.2,8.5,-8.7,-4.3,-8.7,-6.2,32.0,12.44,13.53,3.15,0.0
